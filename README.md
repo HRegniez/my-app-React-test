@@ -1,3 +1,32 @@
+# Trying Create-React-App for the firsrt time !
+
+## Learnt (for now...)
+
+- Create React App init
+- React's logic
+- JSON
+- JSX
+- Creating elements
+- Styling elements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
