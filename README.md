@@ -8,6 +8,9 @@
 - JSX
 - Creating elements
 - Styling elements
+- assigning Keys to my elements
+- map()
+
 
 
 
